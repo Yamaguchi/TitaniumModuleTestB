@@ -1,0 +1,205 @@
+Tmoduletestb
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a normal armv7
+cLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a normal armv6
+cCreateUniversalBinary /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a normal "armv6 armv7"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FC492EF000000000052C940
+t1338282735
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004FC492EE0000000000001534
+t1338282734
+s5428
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m
+c000000004FE1220800000000000008AB
+t1340154376
+s2219
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m
+c000000004FE122080000000000000110
+t1340154376
+s272
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/ModuleTestB_Prefix.pch
+c000000004FE12208000000000000003E
+t1340154376
+s62
+i<Foundation/Foundation.h>
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestB.LinkFileList
+c000000004FE122990000000000000148
+t1340154521
+s328
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestB.LinkFileList
+c000000004FE122990000000000000148
+t1340154521
+s328
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o
+t2
+s0
+
+N/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a
+t2
+s0
+
+N/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies880f74195a91b541^4fc995195a91b541^---0#1#0#--18"Check dependencies36"CFF29589-C5DE-4A61-A737-03F378B3F608-
+
+CCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.893917
+e361847322.021443
+r1
+xCompileC
+xbuild/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m6d01e5195a91b541^aa7e051a5a91b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m0000000000000000^3705"CompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o Classes/ModuleTestBModule.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv6 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModule.o36"E9A6C589-F0C6-4833-B6E4-2BA95CAF09EA-
+
+CCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.894579
+e361847321.945905
+r1
+xCompileC
+xbuild/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m261de5195a91b541^a226f2195a91b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m0000000000000000^3741"CompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o Classes/ModuleTestBModuleAssets.m normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv6 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestBModuleAssets.o36"BAEEEDA2-21C4-4392-8D36-BB3C1D5E4A37-
+
+CCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.833576
+e361847321.972855
+r1
+xCompileC
+xbuild/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m5682d5195a91b541^170df9195a91b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m0000000000000000^3705"CompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o Classes/ModuleTestBModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv7 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModule.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModule.o36"4DEE48DC-E4B9-4B46-B75A-1173F8FD389A-
+
+CCompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.834233
+e361847321.890585
+r1
+xCompileC
+xbuild/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m69a8d5195a91b541^2ffde3195a91b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m0000000000000000^3741"CompileC build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o Classes/ModuleTestBModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv7 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch -MMD -MT dependencies -MF /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.d --serialize-diagnostics /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/Classes/ModuleTestBModuleAssets.m -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestBModuleAssets.o36"1FA824A0-972A-46B0-95A4-FFD062DB4521-
+
+CCreateUniversalBinary /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a normal "armv6 armv7"
+s361847322.043694
+e361847322.050853
+r1
+xCreateUniversalBinary
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a
+xnormal
+xarmv6 armv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Create universal binary /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.ab7430b1a5a91b541^d5040d1a5a91b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a000000000080d041^779"CreateUniversalBinary build/Release-iphoneos/libModuleTestB.a normal "armv6 armv7"    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/libModuleTestB.a36"B01C3F78-A2D9-4F27-AB4C-F6D55B0ECF2A-
+
+CLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a normal armv6
+s361847322.028364
+e361847322.036357
+r1
+xLibtool
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a
+xnormal
+xarmv6
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a normal armv6a054071a5a91b541^ad4f091a5a91b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1105"Libtool build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a normal armv6    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv6 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -filelist /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/ModuleTestB.LinkFileList -ObjC -framework Foundation -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv6/libModuleTestB.a36"1F4A305A-7BE4-4CB3-9DF1-9922EEDEC29B-
+
+CLibtool /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a normal armv7
+s361847321.979655
+e361847321.987558
+r1
+xLibtool
+x/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a normal armv7c2dcfa195a91b541^fad1fc195a91b541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1105"Libtool build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a normal armv7    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -filelist /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/ModuleTestB.LinkFileList -ObjC -framework Foundation -o /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/Objects-normal/armv7/libModuleTestB.a36"7439F908-DDE8-4381-8D98-DAC1BF21539D-
+
+CProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.594656
+e361847321.887459
+r1
+xProcessPCH
+x/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth
+xModuleTestB_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ModuleTestB_Prefix.pchc47998195a91b541^5130e3195a91b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/ModuleTestB_Prefix.pch0000000000000000^3619"ProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv6 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/ModuleTestB_Prefix.pch -o /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-cgbwiidnsjqqyubvhcdbzkllgclq/ModuleTestB_Prefix.pch.d36"DBFED210-1332-4895-ABC1-C741D76A977D-
+
+CProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361847321.594650
+e361847321.826696
+r1
+xProcessPCH
+x/var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth
+xModuleTestB_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ModuleTestB_Prefix.pchee7b98195a91b541^05a2d3195a91b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/ModuleTestB_Prefix.pch0000000000000000^3619"ProcessPCH /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth ModuleTestB_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-generated-files.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-own-target-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-all-target-headers.hmap -iquote /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/ModuleTestB-project-headers.hmap -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos/include "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include" "-I/Users/h_yamaguchi/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/iphone/include/TiCore" -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources/armv7 -I/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/moduletestb.build/Release-iphoneos/moduletestb.build/DerivedSources -F/Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.dia -c /Users/h_yamaguchi/Projects/repository/mcf/touch/ModuleTestB/ModuleTestB_Prefix.pch -o /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zj/tdpp6bws13lb9z3p1jbkn9zm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ModuleTestB_Prefix-dcajkclujxrqtfellmulvywaroao/ModuleTestB_Prefix.pch.d36"943DD986-4448-4B3B-B142-CD92A38DB63F-
+
